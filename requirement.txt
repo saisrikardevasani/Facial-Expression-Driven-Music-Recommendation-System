@@ -1,0 +1,14 @@
+tensorflow
+keras
+pandas
+jupyter
+notebook
+tqdm
+opencv-contrib-python
+scikit-learn
+transformers
+torch
+huggingface_hub
+gradio
+librosa
+numpy
